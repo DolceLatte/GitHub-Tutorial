@@ -1,3 +1,1 @@
-Hello dev
-
-Hello dev2
+GitHub 사용방법 정리
